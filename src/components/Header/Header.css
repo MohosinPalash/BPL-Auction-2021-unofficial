@@ -1,0 +1,30 @@
+.logo-title {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    color: green;
+}
+.logo-title h1{
+    margin-left: 50px;
+}
+.header img{
+    height: 80px;
+    margin-top: 25px;
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    background-color:green;
+    line-height: 40px;
+    font-size:20px
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    margin-right: 20px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color:yellowgreen;
+}

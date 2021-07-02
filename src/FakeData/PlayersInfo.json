@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Babar Azam",
+        "country": "PAK",
+        "dp":"https://i.ibb.co/85fzSBv/PAK-Babar-Azam.png",
+        "role":"Batter (Right hand)",
+        "salary": 17000
+
+    },
+    {
+        "id": 2,
+        "name": "Virat Kohli",
+        "country": "IND",
+        "dp":"https://i.ibb.co/qk1VKYJ/IND-Virat-Kohli.png",
+        "role":"Batter (Right hand)",
+        "salary": 19000
+
+    },
+    {
+        "id": 3,
+        "name": "David warner",
+        "country": "AUS",
+        "dp":"https://i.ibb.co/qmc3DYn/AUS-David-Warner.png",
+        "role":"Batter (Left hand)",
+        "salary": 22000
+
+    },
+    {
+        "id": 4,
+        "name": "Tamim Iqbal",
+        "country": "BAN",
+        "dp":"https://i.ibb.co/zJD0RBn/BAN-Tamim-Iqbal.png",
+        "role":"Batter (Left hand)",
+        "salary": 15000
+
+    },
+    {
+        "id": 5,
+        "name": "Joe Root",
+        "country": "ENG",
+        "dp":"https://i.ibb.co/K9YWHFY/ENG-Joe-Root.png",
+        "role":"Batter (Right hand)",
+        "salary": 25500
+
+    },
+    {
+        "id": 6,
+        "name": "Mitchell Starc",
+        "country": "AUS",
+        "dp":"https://i.ibb.co/3cc5WJk/AUS-Mitchell-Starc.png",
+        "role":"Bowler (Left-Arm Fast Seam)",
+        "salary": 14300
+
+    },
+    {
+        "id": 7,
+        "name": "Rashid Khan",
+        "country": "AFG",
+        "dp":"https://i.ibb.co/mzvYL4f/AFG-Rashid-Khan.png",
+        "role":"Bowler (right-Arm Leg Spin)",
+        "salary": 10500
+
+    },
+    {
+        "id": 8,
+        "name": "Bhuvneshwar Kumar",
+        "country": "IND",
+        "dp":"https://i.ibb.co/L9sjZtm/IND-BK.png",
+        "role":"Bowler (Right-Arm Medium Seam)",
+        "salary": 16000
+
+    },
+    {
+        "id": 9,
+        "name": "Mustafizur Rahman",
+        "country": "BAN",
+        "dp":"https://i.ibb.co/Zdbw2vs/BAN-Mustafizur-Rahman.png",
+        "role":"Bowler (Left-Arm Fast Seam)",
+        "salary": 8700
+
+    },
+    {
+        "id": 10,
+        "name": "Trent Boult",
+        "country": "NZ",
+        "dp":"https://i.ibb.co/1mQS0Xg/NZ-Trent-Boult.png",
+        "role":"Bowler (Left-Arm Fast Seam)",
+        "salary": 18000
+
+    },
+    {
+        "id": 11,
+        "name": "Chris Morris",
+        "country": "SA",
+        "dp":"https://i.ibb.co/hXzgGkD/SA-Chris-Moris.png",
+        "role":"Bowler (Right-Arm Fast Seam)",
+        "salary": 19000
+
+    },
+    {
+        "id": 12,
+        "name": "Shakib Al Hasan",
+        "country": "BAN",
+        "dp":"https://i.ibb.co/p1TsGtB/BAN-Shakib-Al-Hasan.png",
+        "role":"All Rounder (Left-Arm Orthodox)",
+        "salary": 24000
+
+    },
+    {
+        "id": 13,
+        "name": "Ben Stokes",
+        "country": "ENG",
+        "dp":"https://i.ibb.co/JmKHcFf/ENG-Ben-Stokes.png",
+        "role":"All Rounder (Left Hand)",
+        "salary": 30000
+
+    },
+    {
+        "id": 14,
+        "name": "Glenn Maxwell",
+        "country": "AUS",
+        "dp":"https://i.ibb.co/H2DW6HL/AUS-Glenn-Maxwell.png",
+        "role":"All Rounder (Right hand)",
+        "salary": 18500
+
+    },
+    {
+        "id": 15,
+        "name": "Mehidy Hasan",
+        "country": "BAN",
+        "dp":"https://i.ibb.co/jfDF4dr/BAN-Mehidy-Hasan.png",
+        "role":"All Rounder (Right-arm Off Spin)",
+        "salary": 7000
+
+    }
+]
