@@ -20,12 +20,3 @@
 .player-name{
     color: green
 }
-.add-button{
-    background-color: green;
-    color: white;
-    width: fit-content;
-    height: 30px;
-    border: 1px solid darkgrey;
-    border-radius: 5px;
-    cursor: pointer;
-}
